@@ -5,5 +5,6 @@
         url="https://antoniobutkovic.github.io/accelerate-upload/accelerate-release.zip"
         version="1.1.1">
         <idea-version since-build="232" until-build="242.*"/>
+        <name>Accelerate</name>
     </plugin>
 </plugins>
