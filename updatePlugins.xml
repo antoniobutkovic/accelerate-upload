@@ -2,9 +2,9 @@
 <plugins>
     <plugin
         id="com.sofascore.Accelerate"
-        url="https://antoniobutkovic.github.io/accelerate-upload/accelerate-release.zip"
-        version="1.1.1">
-        <idea-version since-build="232" until-build="242.*"/>
+        url="https://antoniobutkovic.github.io/accelerate-upload/Accelerate-1.1.2.zip"
+        version="1.1.2">
+        <idea-version since-build="232" until-build="243.*"/>
         <name>Accelerate</name>
     </plugin>
 </plugins>
